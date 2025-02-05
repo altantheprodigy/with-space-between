@@ -1,6 +1,6 @@
 name: with_space_between
 description: "A package to provide distance between items in a Column, Row, ListView"
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
